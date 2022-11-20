@@ -1,0 +1,147 @@
+.ss{
+    text-decoration: none;
+    color:white;
+    margin-right:20px;
+    font-weight:lighter;
+font-family: 'Raleway';
+}
+.header{
+    margin-left: 380px;
+display:flex;
+align-items: center;
+text-align: center;
+
+
+          
+}
+.name{
+    margin:8px 90px 0px 90px;
+    font-size: 80px;
+    color:white;
+    text-align: center;
+    font-weight:lighter;
+}
+.catalog{
+    margin:8px 40px 0px 40px;
+    text-align: center;
+
+}
+.langs{
+    margin:8px 40px 0px 40px;
+    text-align: center;
+
+
+}
+.lan{
+    margin-right:20px;
+text-decoration: none;
+color:white;
+text-align: center;
+
+}
+.ph{
+    margin:8px 20px 0px 0px;
+    text-decoration: none;
+    color:white;  
+    text-align: center;
+
+}
+.clients{
+    margin:8px 40px 0px 40px;
+font-size: 30px;
+text-align: center;
+
+}
+
+
+
+body{
+   background-image: url("D:/YandexBrowser/фон2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+height:200px;
+}
+
+hr{
+    width:50px;
+}
+.middle{
+margin-top:300;
+    color:white;
+   text-align: center;
+  
+}
+.collection{
+    font-size: 80px;
+
+}
+.smotr{
+    font-size: 16px;
+    text-decoration: none;
+    color:#FFFFFF;
+}
+.scroll{
+    height:5000px;
+}
+.sold{
+    margin-top: 1000px;
+    margin-left:150px;
+font-size: 36px;
+font-weight: lighter;
+}
+
+.phh{
+    margin-right:10px;
+    display:inline-block;
+    width:400px;
+    position: relative;
+}
+.nameOfSold{
+margin-bottom: 70px;
+}
+.phNumbers{
+    display: flex;
+    justify-content: space-around;
+}
+.n1{
+
+    margin-right:400px;
+
+}
+
+.phs{
+    display: flex;
+    align-items: flex-end;
+}
+.sas{
+    position: absolute;
+    left:300px;
+    text-decoration: none;
+color:white;
+}
+.sas1{
+    position: absolute;
+    left:720px;
+    text-decoration: none;
+    color:white;
+}
+.sas2{
+    position: absolute;
+    left:1140px;
+    text-decoration: none;
+    color:white;
+}
+.sas3{
+    position: absolute;
+    left:1560px;
+   text-decoration: none;
+   color:white;
+   font-weight:lighter;
+
+}
+.reg{
+    font-size: 36px;
+    font-weight: 300px  ;
+    text-align: center;
+    margin-top:88px;
+}
